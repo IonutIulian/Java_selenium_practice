@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+F:\java-sele-training\.metadata\.plugins\org.eclipse.jdt.core
+1550375457.index
+1820837480.index
+2931579690.index
+1865797976.index

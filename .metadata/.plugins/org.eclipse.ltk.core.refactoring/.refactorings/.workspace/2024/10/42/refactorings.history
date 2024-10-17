@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Intro-java&apos; to &apos;Intro_in_java&apos;" description="Rename resource &apos;Intro-java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Intro-java" name="Intro_in_java" stamp="1729172692919" updateReferences="true"/>
+</session>
